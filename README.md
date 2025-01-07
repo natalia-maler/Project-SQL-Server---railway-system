@@ -1,5 +1,6 @@
 # Project-SQL-Server---railway-system
 Railway system diagram with online ticket booking
+
 Creation of a database on the railway network to handle train schedules, passenger journeys, information about stations and more. The system facilitates ticket booking, train service, ticket cancellation.
 
 Functionalities:
@@ -14,3 +15,5 @@ Functionalities:
 - The payment table provides information about the amount, method, and date of a given reservation.
 - The delay table contains the time and reason why the train is delayed from a given schedule.
 - The ticket_cancellation table stores information about reservation cancellations, including the reason for cancellation, reservation ID, refund status, refund amount, date.
+
+The project implemented in SQL language includes advanced elements such as views, procedures and triggers. It includes modeling the relational database, implementing tables, and handling relationships between them.
